@@ -16,7 +16,7 @@
 ## A Software Engineering student who loves to code and learn new things each day. 
 <div align="left"> 
 # 👨🏻‍💻  About Me
-💡  I am a passionate web developing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
+💡  I am a passionate in web developing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
 💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
 👨🏻‍💻  I’m looking to build meaningful apps ;<br>
 🙌🏼  2022 Goals: Learn a new things ;<br>
@@ -29,7 +29,7 @@
   
   
   
-  <
+  
   
   
   
