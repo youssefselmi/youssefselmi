@@ -18,8 +18,8 @@
 # 👨🏻‍💻  About Me
 💡  I am a passionate web developing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
 💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
-👨🏻‍💻  I’m looking to build meaningful apps ;
-🙌🏼  2022 Goals: Learn a new things ;
+👨🏻‍💻  I’m looking to build meaningful apps ;<br>
+🙌🏼  2022 Goals: Learn a new things ;<br>
 ✉️  You can email me at youssef.selmi@esprit.tn. I'll try to respond as soon as possible !<br>
 
 
