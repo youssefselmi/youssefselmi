@@ -36,7 +36,8 @@
       <th colspan="3">PROGRESSING IN</th>
     </tr>
     <tr>
-       <td align="center">
+      
+      <td align="center">
         <a href="https://angular.io/">
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
         </a>
@@ -51,7 +52,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJS" width="70" height="70"/>
         </a>
       </td>
-     
+      
       <td align="center">
         <a href="https://www.docker.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
@@ -201,6 +202,17 @@
     </tr>
   </tbody>
 </table>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
