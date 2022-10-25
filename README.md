@@ -12,7 +12,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=youssefselmi&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
 </p>
 
-### Hi there, I'm Aymen Ouerghui check out my -> [Portfolio](https://youssefselmi.github.io)👋👋
+### Hi there, I'm Youssef Selmi check out my -> [Portfolio](https://youssefselmi.github.io)👋👋
 ## A Software Engineering student who loves to code and learn new things each day. 
 <div align="left"> 
 # 👨🏻‍💻  About Me
