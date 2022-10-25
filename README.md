@@ -16,10 +16,12 @@
 ## A Software Engineering student who loves to code and learn new things each day. 
 <div align="left"> 
 # 👨🏻‍💻  About Me
-💡  I am a passionate mobile engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
+💡  I am a passionate web developing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with great interest in developing and programming software.<br>
 💻  I’m currently working on something cool <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
-✍️  In my free time, I usually listen to music  and pursue writing as my hobbies .<br>
+👨🏻‍💻  I’m looking to build meaningful apps ;
+🙌🏼  2022 Goals: Learn a new things ;
 ✉️  You can email me at youssef.selmi@esprit.tn. I'll try to respond as soon as possible !<br>
+
 
 # :hammer_and_wrench: Languages and Tools, and Platforms 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
