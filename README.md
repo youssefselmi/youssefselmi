@@ -22,33 +22,211 @@
 🙌🏼  2022 Goals: Learn a new things ;<br>
 ✉️  You can email me at youssef.selmi@esprit.tn. I'll try to respond as soon as possible !<br>
 
-
-# :hammer_and_wrench: Languages and Tools, and Platforms 
-![HTML](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<br>
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android) ![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
-![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <table border="0" cellspacing="0" cellpadding="0" allign="center">
+  <tbody>
+    <tr>
+      <th colspan="3">CURRENT STACK</th>
+      <th colspan="3">PROGRESSING IN</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://reactjs.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nextjs.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJS" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://angular.io/">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://kubernetes.io/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
+        </a>
+      </td>
+        <td align="center">
+        <a href="https://www.jenkins.io/">
+          <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/JavaScript">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://fr.wikipedia.org/wiki/TypeScript">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TypeScript_Logo.png" alt="JavaScript" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.oracle.com/uk/java/">
+          <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="70"/>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://www.python.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
+        </a>
+      </td> 
+       <td align="center">
+        <a href="https://aws.amazon.com/">
+          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
+        </a>
+      </td> 
+        <td align="center">
+        <a href="https://firebase.google.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="firebase" width="70" height="70"/>
+        </a>
+      </td> 
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://nodejs.org/en/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
+        </a>
+      </td>
+        <td align="center">
+        <a href="https://expressjs.com/fr/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="70" height="70"/>
+        </a>
+      </td>
+          <td align="center">
+        <a href="https://spring.io/projects/spring-boot">
+          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
+        </a>
+      </td>
+        <td align="center">
+        <a href="https://vitejs.dev/">
+          <img src="https://vitejs.dev/logo.svg" alt="Vite" width="70" height="70"/>
+        </a>
+      </td>
+  <td align="center">
+        <a href="https://socket.io/fr/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="SocketIo" width="70" height="70"/>
+        </a>
+      </td>
+  <td align="center">
+        <a href="https://sass-lang.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="70" height="70"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <a href="https://www.electronjs.org/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron" width="70" height="70"/>
+          </a>
+      </td>
+        <td align="center">
+          <a href="https://www.mysql.com/">
+            <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
+          </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mongodb.com/">
+          <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://jestjs.io/fr/">
+          <img src="https://everyday.codes/wp-content/uploads/2020/02/opengraph.png" alt="Jest" width="70" height="70"/>
+        </a>   
+     </td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+     <td align="center">
+        <a href="https://github.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/HTML5">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/CSS">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://graphql.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="Graphql" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.apollographql.com/">
+          <img src="https://miro.medium.com/proxy/1*BIR94Q8MDPonvvFtsnUYLg.png" alt="Apollo" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.heroku.com/">
+          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
+    </tr>
+  </tbody>
+</table>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 # ⚙️ GitHub Analytics
